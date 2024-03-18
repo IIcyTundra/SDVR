@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 
 using UnityEngine;
+=======
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Kitbashery.Gameplay;
+using UnityEditor.PackageManager;
+>>>>>>> dondev2
 
 public class EnemyWeapon : WeaponBase
 {
@@ -7,6 +15,7 @@ public class EnemyWeapon : WeaponBase
 
     protected override void Update()
     {
+<<<<<<< HEAD
         if(CanShoot){
             Shoot();
         }
@@ -14,6 +23,9 @@ public class EnemyWeapon : WeaponBase
             Reload();
         }
         
+=======
+        //Tick(CanShoot);
+>>>>>>> dondev2
     }
 
     

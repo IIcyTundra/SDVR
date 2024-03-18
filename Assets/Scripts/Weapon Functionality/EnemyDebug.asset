@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WeaponName: EnemyDebug
   WeaponID: 1
+<<<<<<< HEAD
   AmmoCapacity: 60
   MagazineSize: 30
   BurstCount: 0
@@ -24,6 +25,16 @@ MonoBehaviour:
   RecoilRecoveryTime: 0.5
   MaxSpreadTime: 1
   FiringType: 2
+=======
+  AmmoCapacity: 0
+  MagazineSize: 0
+  FireRate: 0.1
+  ReloadTime: 0
+  Range: 0
+  RecoilRecoveryTime: 0.5
+  MaxSpreadTime: 1
+  FiringType: 0
+>>>>>>> dondev2
   ProjectileType: 1
   SpreadType: 1
   SimpleSpread: {x: 0.01, y: 0.05, z: 0.05}

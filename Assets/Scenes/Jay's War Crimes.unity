@@ -38,7 +38,11 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+>>>>>>> dondev2
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -123,6 +127,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &2870135
 GameObject:
   m_ObjectHideFlags: 0
@@ -3360,6 +3365,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 106389848}
   m_Mesh: {fileID: -629719859055844128, guid: a825974df062e6d4aa20470b282487e0, type: 3}
+=======
+>>>>>>> dondev2
 --- !u!1001 &107238968
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3423,12 +3430,17 @@ PrefabInstance:
     - target: {fileID: 8386954334066900616, guid: 65a1a6207c9b3d144828893c379c96f1, type: 3}
       propertyPath: pools.Array.data[0].prefab
       value: 
+<<<<<<< HEAD
       objectReference: {fileID: 3972110772962023618, guid: 218b3126b27d68b469e7f87ab64eefb5, type: 3}
+=======
+      objectReference: {fileID: 4096041770465146787, guid: 503c9143fa11a4f4e8f22c1384127816, type: 3}
+>>>>>>> dondev2
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65a1a6207c9b3d144828893c379c96f1, type: 3}
+<<<<<<< HEAD
 --- !u!1 &108268499
 GameObject:
   m_ObjectHideFlags: 0
@@ -21276,6 +21288,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 806129896}
   m_Mesh: {fileID: -629719859055844128, guid: a825974df062e6d4aa20470b282487e0, type: 3}
+=======
+>>>>>>> dondev2
 --- !u!1 &806685502
 GameObject:
   m_ObjectHideFlags: 0
@@ -21328,6 +21342,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &812366418
 GameObject:
   m_ObjectHideFlags: 0
@@ -41042,6 +41057,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1607224635}
   m_Mesh: {fileID: -2267232928022320108, guid: 7b40e3c724e16c846bf9dd8e97467f35, type: 3}
+=======
+>>>>>>> dondev2
 --- !u!1 &1614829382
 GameObject:
   m_ObjectHideFlags: 0
@@ -41160,6 +41177,7 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+<<<<<<< HEAD
 --- !u!1 &1621088051
 GameObject:
   m_ObjectHideFlags: 0
@@ -52962,6 +52980,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027823167}
   m_Mesh: {fileID: -629719859055844128, guid: a825974df062e6d4aa20470b282487e0, type: 3}
+=======
+>>>>>>> dondev2
 --- !u!1001 &2028483547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52974,6 +52994,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Room Randomzier
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 3808594983816223227, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
       propertyPath: wallTileObj_1
       value: 
@@ -52982,6 +53003,8 @@ PrefabInstance:
       propertyPath: levelColliderHeight
       value: 1
       objectReference: {fileID: 0}
+=======
+>>>>>>> dondev2
     - target: {fileID: 7671161778142645336, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -53024,6 +53047,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4467610909480923687, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
+<<<<<<< HEAD
     m_RemovedGameObjects:
     - {fileID: 9199135056387722351, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
     - {fileID: 663350333808724055, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
@@ -53042,6 +53066,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7671161778142645336, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1763310512}
+=======
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+>>>>>>> dondev2
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
 --- !u!114 &2028483548 stripped
@@ -53055,6 +53083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d4f4bc4e28a9ba41b5a5a814435cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!4 &2028483549 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7671161778142645336, guid: f0bd5ed9b1d76934fbc924939cb9667d, type: 3}
@@ -55800,6 +55829,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2146336951}
   m_Mesh: {fileID: -629719859055844128, guid: a825974df062e6d4aa20470b282487e0, type: 3}
+=======
+>>>>>>> dondev2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -55808,5 +55839,8 @@ SceneRoots:
   - {fileID: 2028483547}
   - {fileID: 806685504}
   - {fileID: 107238968}
+<<<<<<< HEAD
   - {fileID: 1574051326}
   - {fileID: 1807861987}
+=======
+>>>>>>> dondev2

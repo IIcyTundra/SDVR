@@ -849,7 +849,11 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: SDVR
+<<<<<<< HEAD
   metroPackageVersion: 1.0.0.0
+=======
+  metroPackageVersion: 
+>>>>>>> dondev2
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -857,7 +861,11 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: SDVR
   wsaImages: {}
+<<<<<<< HEAD
   metroTileShortName: SDVR
+=======
+  metroTileShortName: 
+>>>>>>> dondev2
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -921,7 +929,11 @@ PlayerSettings:
   embeddedLinuxEnableGamepadInput: 1
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
+<<<<<<< HEAD
   apiCompatibilityLevel: 3
+=======
+  apiCompatibilityLevel: 6
+>>>>>>> dondev2
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 23bda316-4523-4a0f-a31f-abcb7ddd39cd
