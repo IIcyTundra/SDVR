@@ -2,12 +2,12 @@ using Kitbashery.Gameplay;
 using UnityEngine;
 
 [RequireComponent(typeof(Health))]
-public class Entity : MonoBehaviour, IPowerUsable
+public class Entity : MonoBehaviour
 {
   
-    [SerializeField] protected EntityStats Stats;
-    protected Health EntityHealth;
-    protected Ability PowerUp;
+    public EntityStats Stats;
+    public Health EntityHealth;
+    public Ability PowerUp;
 
     protected virtual void Awake()
     {

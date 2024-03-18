@@ -8,4 +8,5 @@ public class EntityStats : ScriptableObject
     public string EntityName;
     public int MaxHealth;
     public int MaxSpeed;
+    public int DamageMultiplier = 1;
 }
