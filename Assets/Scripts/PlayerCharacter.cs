@@ -107,6 +107,22 @@ public class PlayerCharacter : Entity
         //Debug.Log("Entity health: " + EntityHealth.hitPoints);
     }
 
+    public Vector3 PlayerPosition
+    {
+        get
+        {
+            Vector3 playerPosition = transform.position;
+            Debug.Log("Player Position: " + playerPosition);
+            return playerPosition;
+        }
+        //get { return transform.position; }
+    }
+
+    public void SetPlayerPosition(Vector3 newPosition)
+    {
+        transform.position = newPosition;
+    }
+
     IEnumerator SlowDownTime(float v)
     {
 

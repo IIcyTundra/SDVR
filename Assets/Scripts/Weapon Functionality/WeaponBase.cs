@@ -160,6 +160,16 @@ public class WeaponBase : MonoBehaviour
         }
     }
 
+    public int GetCurrentAmmo()
+    {
+        return currentAmmo;
+    }
+
+    // Set the current ammo count
+    public void SetCurrentAmmo(int ammo)
+    {
+        currentAmmo = ammo;
+    }
 
     protected virtual void Reload()
     {
